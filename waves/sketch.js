@@ -12,6 +12,9 @@ let xoff = 0.1;
 function setup() {
     createCanvas(windowWidth, windowHeight);
     colorMode(HSB);
+//ff
+//ff
+//dfv
 
     //sel the first row parameters
     sizeW = 2;
